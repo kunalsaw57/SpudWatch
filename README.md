@@ -1,0 +1,4 @@
+# NewsMonkey
+Welcome to NewsMonkey - your one-stop destination for the latest news from around the world! Powered by NewsAPI, our website provides up-to-date and accurate news articles from a wide range of sources, including some of the most trusted news outlets in the world. Our intuitive interface allows you to easily browse through the latest news stories, and filter them based on your interests. With categories such as entertainment, science, health, sports, and more, you can quickly find the news that matters to you. Stay informed and connected with the world through NewsMonkey!
+![Screenshot (389)](https://user-images.githubusercontent.com/96051511/229408439-31b56ffd-63e4-4d4c-b58f-6cc1c377895a.png)
+![Screenshot (390)](https://user-images.githubusercontent.com/96051511/229408415-f1e32730-d6d8-4ec9-9d7c-16b6f20fb8bf.png)

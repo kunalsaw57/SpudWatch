@@ -1,0 +1,52 @@
+    
+
+en Si oe Ee BOOEMAL aetay with their resp,
+lone numbers. Search for a name input by the user, in the list. If found , display «
+ig with the telephone number, otherwise display <s,
+
+teleph
+and print the name alon
+
+successful”
+unsuccessful! Name not enlisted.”
+
+Write a Program to accept code, name, quantity and rate of n items that a shopkeeper stoc
+tal cost of each item and store it. Finally print the list in asceng
+
+store them. Calculate the to
+ler of cost in the following format. ( Use bubble sort). Also print the total cost of all i
+
+ord
+CODE NAME RATE QTY COST
+Accept an array containing names, which is already sorted in alphabetical order. Write a progran
+
+to search a name of user’s choice in the list using binary search.
+Write a program to print the telephone directory of your colony( use selection sort).
+Store the pan no, name and basic salary of employees of a company. Calculate and store net
+
+§ - sy: :
+: of each employee according to the following critieria :
+
+net = basic + da + hra - it - gi
+
+where da = 63% of basic
+
+hra = 11% of basic
+5 it = 9% of basic
+
+gi (group insuranc
+
+  
+ 
+
+Q.22.
+
+8
+
+ 
+
+e ) = Rs. 1200
+ce Ug ek ag oe a tema ding Order as:
+
+ 
+
